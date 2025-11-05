@@ -9,7 +9,7 @@ It allows hospital staff to add, update, and view patient and doctor details, im
 
 🧍‍♂️ Patient Management: Add, update, and view patient details such as ID, Name, Age, Disease, and Treatment Status.
 
-👨‍⚕️ Doctor Management: Add, edit, or delete doctor information (ID, Name, Specialization, Availability).
+👨‍⚕️ Doctor Management: Add, edit, or delete doctor information (ID, Name, Contact No, Availability).
 
 ⏱️ Queue System: Automatically manages patients in a FIFO order to ensure fair and efficient treatment.
 
